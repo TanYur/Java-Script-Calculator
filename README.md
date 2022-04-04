@@ -1,3 +1,3 @@
 # Java-Script-Calculator
-- Java-Script-Calculator
-- [count on it](tanyur.github.io/java-script-calculator/)
+
+- [Java-Script-Calculator](https://tanyur.github.io/Java-Script-Calculator/)
